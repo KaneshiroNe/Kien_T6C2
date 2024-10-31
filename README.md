@@ -17,10 +17,9 @@ Xin chào! Tôi là Kin, một sinh viên của trường đại học Huflit c�
 
 Bạn có thể liên hệ với tôi qua các kênh sau:
 
-- **Zalo**: [Số Zalo hoặc liên kết]
+- **Zalo**: 0931 123 456
 - **Facebook**: https://www.facebook.com/trungkien.cao.98229?locale=vi_VN
-- **YouTube**: [Liên kết đến kênh YouTube của bạn]
-- **LinkedIn**: ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white) [Liên kết LinkedIn]
+- **YouTube**: yohttps://www.youtube.com/channel/UCkLoBAZQLHv9pwHqmmdBeGg
 
 ## Các dự định trong năm nay
 
