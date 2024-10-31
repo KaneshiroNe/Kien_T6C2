@@ -1,4 +1,4 @@
-	:smiley_cat: # Chào mừng đến với trang GitHub của Kin]!
+# Chào mừng đến với trang GitHub của Kin]!:smiley_cat::smiley_cat:
 
 ## Giới thiệu về bản thân :smiley_cat::smiley_cat:
 
