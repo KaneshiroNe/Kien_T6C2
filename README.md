@@ -1,10 +1,10 @@
-# Chào mừng đến với trang GitHub của Kin]!:smiley_cat::smiley_cat:
+# Chào mừng đến với trang GitHub của Kin]! :smiley_cat:
 
-## Giới thiệu về bản thân :smiley_cat::smiley_cat:
+## Giới thiệu về bản thân :scream_cat:
 
 Xin chào! Tôi là Kin, một sinh viên của trường đại học Huflit có đam mê công nghệ và lập trình. Tôi thích khám phá các công nghệ mới và tạo ra những sản phẩm sáng tạo. Đồng thời tôi cũng rất thích chơi game.
 
-## :point_down:Ngôn ngữ tôi đã học:scream_cat:
+## :point_down:Ngôn ngữ tôi đã học
 
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" width="60" />
