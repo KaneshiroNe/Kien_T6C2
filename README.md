@@ -1,8 +1,8 @@
-# Chào mừng đến với trang GitHub của [Tên của bạn]!
+# Chào mừng đến với trang GitHub của Kin]!
 
 ## Giới thiệu về bản thân
 
-Xin chào! Tôi là [Tên của bạn], một người đam mê công nghệ và lập trình. Tôi thích khám phá các công nghệ mới và tạo ra những sản phẩm sáng tạo.
+Xin chào! Tôi là Kin, một sinh viên của trường đại học Huflit có đam mê công nghệ và lập trình. Tôi thích khám phá các công nghệ mới và tạo ra những sản phẩm sáng tạo. Đồng thời tôi cũng rất thích chơi game.
 
 ## Ngôn ngữ tôi đã học
 
@@ -18,6 +18,7 @@ Xin chào! Tôi là [Tên của bạn], một người đam mê công nghệ và
 Bạn có thể liên hệ với tôi qua các kênh sau:
 
 - **Zalo**: [Số Zalo hoặc liên kết]
+- **Facebook**: https://www.facebook.com/trungkien.cao.98229?locale=vi_VN
 - **YouTube**: [Liên kết đến kênh YouTube của bạn]
 - **LinkedIn**: ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white) [Liên kết LinkedIn]
 
